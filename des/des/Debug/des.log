@@ -1,0 +1,6 @@
+﻿  mianfile.cpp
+f:\密码学基础\des\des源代码及通过des实现一些功能\可运行程序及源代码\task1.h(15): warning C4101: “i”: 未引用的局部变量
+f:\密码学基础\des\des源代码及通过des实现一些功能\可运行程序及源代码\task2.h(320): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+f:\密码学基础\des\des源代码及通过des实现一些功能\可运行程序及源代码\task2.h(332): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\密码学基础\des\des源代码及通过des实现一些功能\可运行程序及源代码\task3.h(11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  des.vcxproj -> F:\密码学基础\crypto\des\Debug\des.exe
